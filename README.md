@@ -1,5 +1,5 @@
 # Inshackle v1.0
-## Inshackle v1.0 github.com/ARCH-NEMESISX/CRYSIS
+## Inshackle v1.0 github.com/ARCH-NEMESISX/inshackle
 ## IG : instagram.com
 ## Website: 
 ## Author: github.com/thelinuxchoice/inshackle
@@ -18,7 +18,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Usage:
 ```
-git clone https://github.com/ARCH-NEMESISX/CRYSIS
+git clone https://github.com/ARCH-NEMESISX/inshackle.git
 cd inshackle
 bash inshackle.sh
 ```
